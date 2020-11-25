@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+All great things are done for their own sake
 Use the left arrow to go back!
